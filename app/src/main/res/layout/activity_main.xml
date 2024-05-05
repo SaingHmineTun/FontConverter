@@ -39,7 +39,7 @@
         android:layout_weight="1"
         android:fontFamily="@font/unicode"
         android:gravity="top"
-        android:hint="Input" />
+        android:hint="Input Text" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -82,7 +82,7 @@
         android:editable="false"
         android:fontFamily="@font/zawgyi"
         android:gravity="top"
-        android:hint="Output" />
+        android:hint="Output Text" />
 
 
 </LinearLayout>
